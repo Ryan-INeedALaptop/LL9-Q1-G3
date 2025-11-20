@@ -88,7 +88,7 @@
   }
  
   .hero {
-    background-image: url('image(s)/Untitled.png');
+    background-image: url('Untitled.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -264,4 +264,5 @@
   .site-footer p {
     margin: 3px 0;
   }
+
   
